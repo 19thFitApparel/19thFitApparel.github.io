@@ -1,3 +1,3 @@
 Check out the Site! 
 
-👉 https://19thFitApparel.github.io
+👉 https://19thfitapparel.github.io
